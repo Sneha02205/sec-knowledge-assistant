@@ -1,0 +1,1 @@
+# SEC Knowledge Assistant package
