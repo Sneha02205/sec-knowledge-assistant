@@ -72,10 +72,10 @@ streamlit run app.py
 
 ---
 
-## 💡 How to Explain This Project in an Interview
+
 
 ### 1. The One-Sentence Pitch
-*"I built an enterprise knowledge assistant that answers complex financial questions about public companies by retrieving and citing exact passages from SEC 10-K and 10-Q filings, replacing ungrounded LLM memory with verifiable financial evidence."*
+*" Built an enterprise knowledge assistant that answers complex financial questions about public companies by retrieving and citing exact passages from SEC 10-K and 10-Q filings, replacing ungrounded LLM memory with verifiable financial evidence."*
 
 ### 2. The 3 Core Architectural Improvements (And Their "Why")
 1. **Hybrid Retrieval (BM25 + Dense) with Reciprocal Rank Fusion & Reranking**:
